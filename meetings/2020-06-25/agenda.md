@@ -13,7 +13,8 @@ Location: Virtual Zoom
     - Managing Director Report
     - Treasurer's Report
  - Old Business
-    - ???
+    - Fee Structure Review 
+    - R2DBC Approval
  - New Business
    - Introduction of new staff
      - James Townley - Community and Technical Direction
