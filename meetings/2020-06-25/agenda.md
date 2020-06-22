@@ -26,6 +26,7 @@ Location: Virtual Zoom
    - Proposal of Initial Project Lifecycle [Project Lifecycle](proposal_toc_project_lifecycle.md)
    - Selecting representative members for TOC [TOC Membership](proposal_toc_initial_membership.md)
    - Acceptance of the Reactive Streams Specification (Note: future projects will be approved via TOC)
+   - Inclusion of Reactive Summit in Reactive Foundation
  - Comments and Announcements
  - Adjournment
 
