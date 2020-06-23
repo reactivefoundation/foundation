@@ -10,7 +10,7 @@ Location: Virtual Zoom
   -  Approval of the Agenda
   -  Approval of minutes from May 28, 2020
  - Reports
-    - Managing Director Report
+    - GM Report
     - Treasurer's Report
  - Old Business
     - Fee Structure Review 
