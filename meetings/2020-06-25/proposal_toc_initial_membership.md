@@ -8,3 +8,4 @@ Spots to fill:
  - 3 Board Appointment(s) 
  - RSocket Appointment 
 
+Set an interim Chair untill TOC can sit and determine a Chair
