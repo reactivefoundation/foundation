@@ -22,11 +22,12 @@ Location: Virtual Zoom
    - Amendments to the charter [Google Doc](https://docs.google.com/document/d/1OvIdmkdLcz38eLq89dwuByzIi19WGMEH-cwo2c_zy6s)
      -  Allow Reactive Foundation to be an umbrella foundation
      -  Creation of Technical Oversight Committee(TOC) 
-   - Proposal for TOC mandate as part of the charter changes [Google Doc](https://docs.google.com/document/d/1OvIdmkdLcz38eLq89dwuByzIi19WGMEH-cwo2c_zy6s)
+     -  Proposal for TOC mandate
    - Proposal of Initial Project Lifecycle [Project Lifecycle](proposal_toc_project_lifecycle.md)
    - Selecting representative members for TOC [TOC Membership](proposal_toc_initial_membership.md)
-   - Acceptance of the Reactive Streams Specification (Note: future projects will be approved via TOC)
+   - Persumptive acceptance of the Reactive Streams Specification (Note: future projects will be approved via TOC)
    - Inclusion of Reactive Summit in Reactive Foundation
+   - Monthly operating budget (for tools eg. GSuite )
  - Comments and Announcements
  - Adjournment
 
