@@ -5,8 +5,6 @@ Date: June 17th, 2020
 
 Spots to fill:
 
-Chair: 
-Board Appointment: 
-RSocket Appointment: 
-Reactive Streams Appointment:
-Council of the Wise Appointment: 
+ - 3 Board Appointment(s) 
+ - RSocket Appointment 
+
