@@ -28,6 +28,7 @@ Location: Virtual Zoom
    - Persumptive acceptance of the Reactive Streams Specification (Note: future projects will be approved via TOC)
    - Inclusion of Reactive Summit in Reactive Foundation
    - Monthly operating budget (for tools eg. GSuite )
+   - Allowing twitter to join under old payment schedule provided payment is recieve in 30 days
  - Comments and Announcements
  - Adjournment
 
