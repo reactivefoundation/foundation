@@ -21,7 +21,7 @@ Location: Virtual Zoom
     - Reactive Summit CFP [Form](https://forms.gle/fMUL2A1cA962PgyVA) Closes Aug 15th
       -  How to Evaluate Entries?
     - Reactive Summit Marketing
-    -  How to expose this?
+      -  How to expose this?
     - Recruiting Potential Members
     - Advisory Council
     - Confirm the new charter as presented by the Linux Foundation [Charter](https://docs.google.com/document/d/1OvIdmkdLcz38eLq89dwuByzIi19WGMEH-cwo2c_zy6s/edit?ts=5ef3a3c1#)
