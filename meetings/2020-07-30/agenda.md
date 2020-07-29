@@ -22,8 +22,8 @@ Location: Virtual Zoom
         1. How to Evaluate Entries?
         1. Reactive Summit Marketing
             1. How to expose this?
-        1. Recruiting Potential Members
-        1. Advisory Council
+    1. Recruiting Potential Members
+    1. Advisory Council
     1. Confirm the new charter as presented by the Linux Foundation [Charter](https://docs.google.com/document/d/1OvIdmkdLcz38eLq89dwuByzIi19WGMEH-cwo2c_zy6s/edit?ts=5ef3a3c1#)
     1. Deadline of August 31st to get the new agreements signed (Todd Benzies - Linux Foundation)
     1. Discussion on the Foundation Road Map
