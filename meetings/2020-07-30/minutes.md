@@ -9,7 +9,7 @@ Time: 1500 GMT<br />
 ### Board (Voting Members)
 - Jonas Boner (Chair - Lightbend)
 - Alexy Khrabrov (General Manager - Board Appointment)
-- Von Vernon (Treasurer- Vlingo)
+- Vaughn Vernon (Treasurer- Vlingo)
 - Ryland Degan (TOC Representative - Board Appointment)
 - Jacky Chen (Alibaba Cloud)
 - Steve Gury (Facebook)
@@ -27,7 +27,7 @@ Time: 1500 GMT<br />
 ### Reports
 - Alexy Delivered GM report
 - Tood needs approvals again and then will send out details
-- Von Delivered Treasurer's Report
+- Vaughn Delivered Treasurer's Report
     - Reactive Summit is $15,000 cost
 - Q: Why is this so expensive for virtual events? 
     - Alexy: Production company is very well respected with complex arrangements.

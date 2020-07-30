@@ -11,7 +11,7 @@ Location: Virtual Zoom
     1. Approval of [Minutes from June 25, 2020](https://github.com/reactivefoundation/foundation/blob/master/meetings/2020-06-25/minutes.md)
 1. Reports
     1. GM Report ( Alexy )
-    1. Treasurer's Report ( Von )
+    1. Treasurer's Report ( Vaughn )
     1. TOC Report ( Ryland )
     1. Marketing Commitee Report ( Kathleen )
 1. Old Business
