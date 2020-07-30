@@ -1,8 +1,8 @@
 # Meeting Minutes - Reactive Foundation
 
-Location: Teleconference 
-Date: July 30th 
-Time: 1500 GMT
+Location: Teleconference<br />
+Date: July 30th<br />
+Time: 1500 GMT<br />
 
 
 ## Attendance
@@ -29,7 +29,8 @@ Time: 1500 GMT
 - Tood needs approvals again and then will send out details
 - Von Delivered Treasurer's Report
     - Reactive Summit is $15,000 cost
-- Q: Why is this so expensive for virtual events? A(Alexy): Production company is very well respected with complex arrangements.
+- Q: Why is this so expensive for virtual events? 
+    - Alexy: Production company is very well respected with complex arrangements.
 - Ryland delivered TOC report
     - Chair elected( Ryland)
     - Due diligence phase for Cloudflow and Cloudstate
@@ -77,7 +78,7 @@ Time: 1500 GMT
 - Renewals need to be done by August 31 Linux Foundation will send docusign
 
 ### Foundation Road Map
-- TBD offline
+- To be reviewed offline
 
 ## Motions
 - Approve the agenda / Ben Hale / Alexy / Unanimous / Passed
@@ -95,4 +96,4 @@ Time: 1500 GMT
 - Add board to TOC lists / James / Due Date: August 1th
 - Start advisory council topic / Ryland / Due Date:  August 7th
 
-##Other Notes
+## Other Notes
