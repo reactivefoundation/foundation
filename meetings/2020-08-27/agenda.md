@@ -23,6 +23,8 @@ Location: Virtual Zoom
         1. CFP submissions sent for review to Advisory Council + Board + TOC members ("Extended RF Family") (document shared)
         1. Reactive Summit Marketing
             1. Marketing contacts from members
+    1. Preview and status of new website
+    1. Launch of Reactive Principles and Patterns (document shared)
 1. Comments and Announcements
 1. Adjournment
 
