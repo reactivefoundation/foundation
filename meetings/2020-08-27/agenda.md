@@ -11,6 +11,7 @@ Location: Virtual Zoom
     1. Approval of [Minutes from July 27, 2020](https://github.com/reactivefoundation/foundation/blob/master/meetings/2020-07-30/minutes.md)
 1. Reports
     1. GM Report ( Alexy )
+        1.  Proposal for funding of the GM role at the RF
     1. Treasurer's Report ( Vaughn )
     1. TOC Report ( Ryland )
     1. Marketing Commitee Report ( Kathleen )
@@ -23,6 +24,8 @@ Location: Virtual Zoom
         1. CFP submissions sent for review to Advisory Council + Board + TOC members ("Extended RF Family") (document shared)
         1. Reactive Summit Marketing
             1. Marketing contacts from members
+    1. Preview and status of new website
+    1. Launch of Reactive Principles and Patterns (document shared)
 1. Comments and Announcements
 1. Adjournment
 
