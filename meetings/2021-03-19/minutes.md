@@ -4,6 +4,8 @@ Location:   Teleconference
 Date:       March 19 2021
 Time:       1800 UTC
 
+Recording: https://vmware.zoom.us/rec/share/IQ4EC6UCJ0yLuzxsvqhTsRfubhVEDhMBYZ6YSu7WDJGtAt2_4hUCB-aTHAmWUCzz.arUA0JZxJHzXr9oX Passcode: `8Z?gEB*e`
+
 ## Attendance
  - Board
     - Jonas
